@@ -1,0 +1,3758 @@
+fileFormatVersion: 2
+guid: d7880565d53dc1b4a81f740149c4d510
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: 0
+    100002: A-DETL-GENF
+    100004: A-FLOR
+    100006: A-FLOR-HRAL
+    100008: A-GENM
+    100010: A-ROOF
+    100012: A-WALL
+    100014: Baranda_Nueva
+    100016: Baranda_Vieja
+    100018: Borde-camino
+    100020: Box042
+    100022: Box076
+    100024: Box078
+    100026: Box081
+    100028: Box082
+    100030: Box085
+    100032: Box086
+    100034: Box087
+    100036: Box088
+    100038: Box089
+    100040: Box090
+    100042: Box091
+    100044: Box092
+    100046: Box093
+    100048: Box094
+    100050: Box095
+    100052: Box096
+    100054: Box098
+    100056: Box099
+    100058: Box100
+    100060: Box101
+    100062: Box102
+    100064: Box103
+    100066: Box104
+    100068: Box105
+    100070: Box106
+    100072: Box109
+    100074: Box110
+    100076: Box111
+    100078: Box112
+    100080: Box113
+    100082: Box114
+    100084: Box115
+    100086: Box116
+    100088: Box117
+    100090: Box118
+    100092: Box119
+    100094: Box120
+    100096: Box121
+    100098: Box122
+    100100: Box123
+    100102: Box124
+    100104: Box125
+    100106: Box126
+    100108: Box127
+    100110: Box128
+    100112: Box129
+    100114: Box130
+    100116: Box131
+    100118: Box132
+    100120: C Indice
+    100122: C Intermedia
+    100124: C-TOPO
+    100126: C-TOPO-MAJR
+    100128: C-TOPO-MINR
+    100130: Cross-Map000-Alt 388107.84 mm
+    100132: Cross-Map000-Alt 394607.8398 mm
+    100134: Cross-Map001-Alt 388607.84 mm
+    100136: Cross-Map001-Alt 395107.8398 mm
+    100138: Cross-Map002-Alt 389107.84 mm
+    100140: Cross-Map002-Alt 395607.8398 mm
+    100142: Cross-Map003-Alt 389607.84 mm
+    100144: Cross-Map003-Alt 396107.8398 mm
+    100146: Cross-Map004-Alt 390107.84 mm
+    100148: Cross-Map004-Alt 396607.8398 mm
+    100150: Cross-Map005-Alt 390607.84 mm
+    100152: Cross-Map005-Alt 397107.8398 mm
+    100154: Cross-Map006-Alt 391107.84 mm
+    100156: Cross-Map006-Alt 397607.8398 mm
+    100158: Cross-Map007-Alt 391607.84 mm
+    100160: Cross-Map007-Alt 398107.8398 mm
+    100162: Cross-Map008-Alt 392107.84 mm
+    100164: Cross-Map008-Alt 398607.8398 mm
+    100166: Cross-Map009-Alt 392607.84 mm
+    100168: Cross-Map009-Alt 399107.8398 mm
+    100170: Cross-Map010-Alt 393107.84 mm
+    100172: Cross-Map010-Alt 399607.8398 mm
+    100174: Cross-Map011-Alt 400107.8398 mm
+    100176: Cross-Map012-Alt 394107.84 mm
+    100178: Cross-Map012-Alt 400607.8398 mm
+    100180: Cross-Map013-Alt 394607.84 mm
+    100182: Cross-Map013-Alt 401107.8398 mm
+    100184: Cross-Map014-Alt 395107.84 mm
+    100186: Cross-Map015-Alt 395607.84 mm
+    100188: Cross-Map016-Alt 396107.84 mm
+    100190: Cross-Map017-Alt 396607.84 mm
+    100192: Cross-Map018-Alt 397107.84 mm
+    100194: Cross-Map019-Alt 397607.84 mm
+    100196: Cross-Map020-Alt 398107.84 mm
+    100198: Cross-Map021-Alt 398607.84 mm
+    100200: Cross-Map022-Alt 399107.84 mm
+    100202: Cross-Map023-Alt 399607.84 mm
+    100204: Cross-Map024-Alt 400107.84 mm
+    100206: Cross-Map025-Alt 400607.84 mm
+    100208: Cross-Map026-Alt 401107.84 mm
+    100210: Cross-Map027-Alt 401607.84 mm
+    100212: Cross-Map028-Alt 402107.84 mm
+    100214: Cross-Map029-Alt 402607.84 mm
+    100216: Cross-Map030-Alt 403107.84 mm
+    100218: Cross-Map031-Alt 403607.84 mm
+    100220: Cross-Map032-Alt 404107.84 mm
+    100222: Curvas_CAD_dwg
+    100224: Cylinder001
+    100226: Cylinder002
+    100228: Cylinder003
+    100230: Cylinder004
+    100232: Cylinder007
+    100234: Cylinder009
+    100236: Cylinder011
+    100238: Cylinder013
+    100240: Cylinder014
+    100242: Cylinder015
+    100244: Cylinder016
+    100246: Cylinder017
+    100248: Cylinder018
+    100250: Cylinder019
+    100252: Cylinder020
+    100254: Daniel Tren A
+    100256: E-CABL-TRAY
+    100258: E-CABL-TRAY-CNTR
+    100260: E-ELEC-EQPM
+    100262: E-LITE-EQPM
+    100264: L-SITE
+    100266: Line002
+    100268: Line003
+    100270: Line004
+    100272: M-EQPM
+    100274: M-HVAC-DUCT
+    100276: M-HVAC-DUCT-CNTR
+    100278: Malla_RVT_SX2
+    100280: Malla_RW_01
+    100282: Object022
+    100284: Object023
+    100286: Object026
+    100288: Object027
+    100290: Object028
+    100292: Object029
+    100294: Object030
+    100296: Object031
+    100298: Object032
+    100300: Object033
+    100302: Object034
+    100304: Object035
+    100306: Object036
+    100308: P-PIPE
+    100310: P-PIPE-CNTR
+    100312: pie
+    100314: Predeterminado
+    100316: Q-SPCQ
+    100318: S-BEAM
+    100320: S-COLS
+    100322: S-FNDN
+    100324: S-FSTN
+    100326: S-STRS
+    100328: //RootNode
+    100330: Vertices-poligonal
+    100332: radier
+    100334: Object014
+    400000: 0
+    400002: A-DETL-GENF
+    400004: A-FLOR
+    400006: A-FLOR-HRAL
+    400008: A-GENM
+    400010: A-ROOF
+    400012: A-WALL
+    400014: Baranda_Nueva
+    400016: Baranda_Vieja
+    400018: Borde-camino
+    400020: Box042
+    400022: Box076
+    400024: Box078
+    400026: Box081
+    400028: Box082
+    400030: Box085
+    400032: Box086
+    400034: Box087
+    400036: Box088
+    400038: Box089
+    400040: Box090
+    400042: Box091
+    400044: Box092
+    400046: Box093
+    400048: Box094
+    400050: Box095
+    400052: Box096
+    400054: Box098
+    400056: Box099
+    400058: Box100
+    400060: Box101
+    400062: Box102
+    400064: Box103
+    400066: Box104
+    400068: Box105
+    400070: Box106
+    400072: Box109
+    400074: Box110
+    400076: Box111
+    400078: Box112
+    400080: Box113
+    400082: Box114
+    400084: Box115
+    400086: Box116
+    400088: Box117
+    400090: Box118
+    400092: Box119
+    400094: Box120
+    400096: Box121
+    400098: Box122
+    400100: Box123
+    400102: Box124
+    400104: Box125
+    400106: Box126
+    400108: Box127
+    400110: Box128
+    400112: Box129
+    400114: Box130
+    400116: Box131
+    400118: Box132
+    400120: C Indice
+    400122: C Intermedia
+    400124: C-TOPO
+    400126: C-TOPO-MAJR
+    400128: C-TOPO-MINR
+    400130: Cross-Map000-Alt 388107.84 mm
+    400132: Cross-Map000-Alt 394607.8398 mm
+    400134: Cross-Map001-Alt 388607.84 mm
+    400136: Cross-Map001-Alt 395107.8398 mm
+    400138: Cross-Map002-Alt 389107.84 mm
+    400140: Cross-Map002-Alt 395607.8398 mm
+    400142: Cross-Map003-Alt 389607.84 mm
+    400144: Cross-Map003-Alt 396107.8398 mm
+    400146: Cross-Map004-Alt 390107.84 mm
+    400148: Cross-Map004-Alt 396607.8398 mm
+    400150: Cross-Map005-Alt 390607.84 mm
+    400152: Cross-Map005-Alt 397107.8398 mm
+    400154: Cross-Map006-Alt 391107.84 mm
+    400156: Cross-Map006-Alt 397607.8398 mm
+    400158: Cross-Map007-Alt 391607.84 mm
+    400160: Cross-Map007-Alt 398107.8398 mm
+    400162: Cross-Map008-Alt 392107.84 mm
+    400164: Cross-Map008-Alt 398607.8398 mm
+    400166: Cross-Map009-Alt 392607.84 mm
+    400168: Cross-Map009-Alt 399107.8398 mm
+    400170: Cross-Map010-Alt 393107.84 mm
+    400172: Cross-Map010-Alt 399607.8398 mm
+    400174: Cross-Map011-Alt 400107.8398 mm
+    400176: Cross-Map012-Alt 394107.84 mm
+    400178: Cross-Map012-Alt 400607.8398 mm
+    400180: Cross-Map013-Alt 394607.84 mm
+    400182: Cross-Map013-Alt 401107.8398 mm
+    400184: Cross-Map014-Alt 395107.84 mm
+    400186: Cross-Map015-Alt 395607.84 mm
+    400188: Cross-Map016-Alt 396107.84 mm
+    400190: Cross-Map017-Alt 396607.84 mm
+    400192: Cross-Map018-Alt 397107.84 mm
+    400194: Cross-Map019-Alt 397607.84 mm
+    400196: Cross-Map020-Alt 398107.84 mm
+    400198: Cross-Map021-Alt 398607.84 mm
+    400200: Cross-Map022-Alt 399107.84 mm
+    400202: Cross-Map023-Alt 399607.84 mm
+    400204: Cross-Map024-Alt 400107.84 mm
+    400206: Cross-Map025-Alt 400607.84 mm
+    400208: Cross-Map026-Alt 401107.84 mm
+    400210: Cross-Map027-Alt 401607.84 mm
+    400212: Cross-Map028-Alt 402107.84 mm
+    400214: Cross-Map029-Alt 402607.84 mm
+    400216: Cross-Map030-Alt 403107.84 mm
+    400218: Cross-Map031-Alt 403607.84 mm
+    400220: Cross-Map032-Alt 404107.84 mm
+    400222: Curvas_CAD_dwg
+    400224: Cylinder001
+    400226: Cylinder002
+    400228: Cylinder003
+    400230: Cylinder004
+    400232: Cylinder007
+    400234: Cylinder009
+    400236: Cylinder011
+    400238: Cylinder013
+    400240: Cylinder014
+    400242: Cylinder015
+    400244: Cylinder016
+    400246: Cylinder017
+    400248: Cylinder018
+    400250: Cylinder019
+    400252: Cylinder020
+    400254: Daniel Tren A
+    400256: E-CABL-TRAY
+    400258: E-CABL-TRAY-CNTR
+    400260: E-ELEC-EQPM
+    400262: E-LITE-EQPM
+    400264: L-SITE
+    400266: Line002
+    400268: Line003
+    400270: Line004
+    400272: M-EQPM
+    400274: M-HVAC-DUCT
+    400276: M-HVAC-DUCT-CNTR
+    400278: Malla_RVT_SX2
+    400280: Malla_RW_01
+    400282: Object022
+    400284: Object023
+    400286: Object026
+    400288: Object027
+    400290: Object028
+    400292: Object029
+    400294: Object030
+    400296: Object031
+    400298: Object032
+    400300: Object033
+    400302: Object034
+    400304: Object035
+    400306: Object036
+    400308: P-PIPE
+    400310: P-PIPE-CNTR
+    400312: pie
+    400314: Predeterminado
+    400316: Q-SPCQ
+    400318: S-BEAM
+    400320: S-COLS
+    400322: S-FNDN
+    400324: S-FSTN
+    400326: S-STRS
+    400328: //RootNode
+    400330: Vertices-poligonal
+    400332: radier
+    400334: Object014
+    2300000: Box042
+    2300002: Box076
+    2300004: Box078
+    2300006: Box081
+    2300008: Box082
+    2300010: Box085
+    2300012: Box086
+    2300014: Box087
+    2300016: Box088
+    2300018: Box089
+    2300020: Box090
+    2300022: Box091
+    2300024: Box092
+    2300026: Box093
+    2300028: Box094
+    2300030: Box095
+    2300032: Box096
+    2300034: Box098
+    2300036: Box099
+    2300038: Box100
+    2300040: Box101
+    2300042: Box102
+    2300044: Box103
+    2300046: Box104
+    2300048: Box105
+    2300050: Box106
+    2300052: Box109
+    2300054: Box110
+    2300056: Box111
+    2300058: Box112
+    2300060: Box113
+    2300062: Box114
+    2300064: Box115
+    2300066: Box116
+    2300068: Box117
+    2300070: Box118
+    2300072: Box119
+    2300074: Box120
+    2300076: Box121
+    2300078: Box122
+    2300080: Box123
+    2300082: Box124
+    2300084: Box125
+    2300086: Box126
+    2300088: Box127
+    2300090: Box128
+    2300092: Box129
+    2300094: Box130
+    2300096: Box131
+    2300098: Box132
+    2300100: Cylinder001
+    2300102: Cylinder002
+    2300104: Cylinder003
+    2300106: Cylinder004
+    2300108: Cylinder007
+    2300110: Cylinder009
+    2300112: Cylinder011
+    2300114: Cylinder013
+    2300116: Cylinder014
+    2300118: Cylinder015
+    2300120: Cylinder016
+    2300122: Cylinder017
+    2300124: Cylinder018
+    2300126: Cylinder019
+    2300128: Cylinder020
+    2300130: Line002
+    2300132: Line003
+    2300134: Line004
+    2300136: Object022
+    2300138: Object023
+    2300140: Object026
+    2300142: Object027
+    2300144: Object028
+    2300146: Object029
+    2300148: Object030
+    2300150: Object031
+    2300152: Object032
+    2300154: Object033
+    2300156: Object034
+    2300158: Object035
+    2300160: Object036
+    2300162: radier
+    2300164: Object014
+    3300000: Box042
+    3300002: Box076
+    3300004: Box078
+    3300006: Box081
+    3300008: Box082
+    3300010: Box085
+    3300012: Box086
+    3300014: Box087
+    3300016: Box088
+    3300018: Box089
+    3300020: Box090
+    3300022: Box091
+    3300024: Box092
+    3300026: Box093
+    3300028: Box094
+    3300030: Box095
+    3300032: Box096
+    3300034: Box098
+    3300036: Box099
+    3300038: Box100
+    3300040: Box101
+    3300042: Box102
+    3300044: Box103
+    3300046: Box104
+    3300048: Box105
+    3300050: Box106
+    3300052: Box109
+    3300054: Box110
+    3300056: Box111
+    3300058: Box112
+    3300060: Box113
+    3300062: Box114
+    3300064: Box115
+    3300066: Box116
+    3300068: Box117
+    3300070: Box118
+    3300072: Box119
+    3300074: Box120
+    3300076: Box121
+    3300078: Box122
+    3300080: Box123
+    3300082: Box124
+    3300084: Box125
+    3300086: Box126
+    3300088: Box127
+    3300090: Box128
+    3300092: Box129
+    3300094: Box130
+    3300096: Box131
+    3300098: Box132
+    3300100: Cylinder001
+    3300102: Cylinder002
+    3300104: Cylinder003
+    3300106: Cylinder004
+    3300108: Cylinder007
+    3300110: Cylinder009
+    3300112: Cylinder011
+    3300114: Cylinder013
+    3300116: Cylinder014
+    3300118: Cylinder015
+    3300120: Cylinder016
+    3300122: Cylinder017
+    3300124: Cylinder018
+    3300126: Cylinder019
+    3300128: Cylinder020
+    3300130: Line002
+    3300132: Line003
+    3300134: Line004
+    3300136: Object022
+    3300138: Object023
+    3300140: Object026
+    3300142: Object027
+    3300144: Object028
+    3300146: Object029
+    3300148: Object030
+    3300150: Object031
+    3300152: Object032
+    3300154: Object033
+    3300156: Object034
+    3300158: Object035
+    3300160: Object036
+    3300162: radier
+    3300164: Object014
+    4300000: Cylinder001
+    4300002: Cylinder002
+    4300004: Cylinder003
+    4300006: Cylinder004
+    4300008: Cylinder007
+    4300010: Cylinder009
+    4300012: Cylinder011
+    4300014: Line002
+    4300016: Cylinder013
+    4300018: Line003
+    4300020: Line004
+    4300022: Box106
+    4300024: Object022
+    4300026: Object023
+    4300028: Object026
+    4300030: Object027
+    4300032: Cylinder014
+    4300034: Cylinder015
+    4300036: Cylinder016
+    4300038: Cylinder017
+    4300040: Cylinder018
+    4300042: Cylinder019
+    4300044: Cylinder020
+    4300046: Box076
+    4300048: Box093
+    4300050: Box089
+    4300052: Box094
+    4300054: Box090
+    4300056: Box088
+    4300058: Box095
+    4300060: Box042
+    4300062: Box082
+    4300064: Box099
+    4300066: Box096
+    4300068: Box102
+    4300070: Box101
+    4300072: Box104
+    4300074: Box098
+    4300076: Box103
+    4300078: Box105
+    4300080: Box092
+    4300082: Box086
+    4300084: Box091
+    4300086: Box087
+    4300088: Box085
+    4300090: Box081
+    4300092: Box078
+    4300094: Box110
+    4300096: Box109
+    4300098: Box111
+    4300100: Box112
+    4300102: Box113
+    4300104: Box114
+    4300106: Box115
+    4300108: Box116
+    4300110: Box117
+    4300112: Box118
+    4300114: Box119
+    4300116: Box120
+    4300118: Box121
+    4300120: Box122
+    4300122: Box123
+    4300124: Box124
+    4300126: Box125
+    4300128: Box126
+    4300130: Box127
+    4300132: Box128
+    4300134: Box129
+    4300136: Box130
+    4300138: Box131
+    4300140: Box132
+    4300142: Box100
+    4300144: Object028
+    4300146: Object029
+    4300148: Object030
+    4300150: Object031
+    4300152: Object032
+    4300154: Object033
+    4300156: Object034
+    4300158: Object035
+    4300160: Object036
+    4300162: radier
+    4300164: Object014
+    7400000: Todas
+    7400002: paso01
+    7400004: paso02
+    7400006: paso03
+    7400008: paso04
+    7400010: paso05
+    7400012: paso06
+    7400014: paso07
+    7400016: paso08
+    7400018: paso09
+    7400020: paso10
+    7400022: paso11
+    7400024: paso12
+    7400026: paso13
+    7400028: paso14
+    7400030: paso15
+    9500000: //RootNode
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Todas
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 1320.00012
+      wrapMode: 1
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: 0
+        weight: 1
+      - path: A-DETL-GENF
+        weight: 1
+      - path: A-FLOR
+        weight: 1
+      - path: A-FLOR-HRAL
+        weight: 1
+      - path: A-GENM
+        weight: 1
+      - path: A-ROOF
+        weight: 1
+      - path: A-WALL
+        weight: 1
+      - path: Baranda_Nueva
+        weight: 1
+      - path: Baranda_Nueva/Box042
+        weight: 1
+      - path: Baranda_Nueva/Box076
+        weight: 1
+      - path: Baranda_Nueva/Box078
+        weight: 1
+      - path: Baranda_Nueva/Box081
+        weight: 1
+      - path: Baranda_Nueva/Box082
+        weight: 1
+      - path: Baranda_Nueva/Box085
+        weight: 1
+      - path: Baranda_Nueva/Box086
+        weight: 1
+      - path: Baranda_Nueva/Box087
+        weight: 1
+      - path: Baranda_Nueva/Box088
+        weight: 1
+      - path: Baranda_Nueva/Box089
+        weight: 1
+      - path: Baranda_Nueva/Box090
+        weight: 1
+      - path: Baranda_Nueva/Box091
+        weight: 1
+      - path: Baranda_Nueva/Box092
+        weight: 1
+      - path: Baranda_Nueva/Box093
+        weight: 1
+      - path: Baranda_Nueva/Box094
+        weight: 1
+      - path: Baranda_Nueva/Box095
+        weight: 1
+      - path: Baranda_Nueva/Box096
+        weight: 1
+      - path: Baranda_Nueva/Box098
+        weight: 1
+      - path: Baranda_Nueva/Box099
+        weight: 1
+      - path: Baranda_Nueva/Box101
+        weight: 1
+      - path: Baranda_Nueva/Box102
+        weight: 1
+      - path: Baranda_Nueva/Box103
+        weight: 1
+      - path: Baranda_Nueva/Box104
+        weight: 1
+      - path: Baranda_Nueva/Box105
+        weight: 1
+      - path: Baranda_Vieja
+        weight: 1
+      - path: Baranda_Vieja/Box100
+        weight: 1
+      - path: Baranda_Vieja/Box109
+        weight: 1
+      - path: Baranda_Vieja/Box110
+        weight: 1
+      - path: Baranda_Vieja/Box111
+        weight: 1
+      - path: Baranda_Vieja/Box112
+        weight: 1
+      - path: Baranda_Vieja/Box113
+        weight: 1
+      - path: Baranda_Vieja/Box114
+        weight: 1
+      - path: Baranda_Vieja/Box115
+        weight: 1
+      - path: Baranda_Vieja/Box116
+        weight: 1
+      - path: Baranda_Vieja/Box117
+        weight: 1
+      - path: Baranda_Vieja/Box118
+        weight: 1
+      - path: Baranda_Vieja/Box119
+        weight: 1
+      - path: Baranda_Vieja/Box120
+        weight: 1
+      - path: Baranda_Vieja/Box121
+        weight: 1
+      - path: Baranda_Vieja/Box122
+        weight: 1
+      - path: Baranda_Vieja/Box123
+        weight: 1
+      - path: Baranda_Vieja/Box124
+        weight: 1
+      - path: Baranda_Vieja/Box125
+        weight: 1
+      - path: Baranda_Vieja/Box126
+        weight: 1
+      - path: Baranda_Vieja/Box127
+        weight: 1
+      - path: Baranda_Vieja/Box128
+        weight: 1
+      - path: Baranda_Vieja/Box129
+        weight: 1
+      - path: Baranda_Vieja/Box130
+        weight: 1
+      - path: Baranda_Vieja/Box131
+        weight: 1
+      - path: Baranda_Vieja/Box132
+        weight: 1
+      - path: Borde-camino
+        weight: 1
+      - path: Box106
+        weight: 1
+      - path: C Indice
+        weight: 1
+      - path: C Intermedia
+        weight: 1
+      - path: C-TOPO
+        weight: 1
+      - path: C-TOPO-MAJR
+        weight: 1
+      - path: C-TOPO-MINR
+        weight: 1
+      - path: Cross-Map000-Alt 388107.84 mm
+        weight: 1
+      - path: Cross-Map000-Alt 394607.8398 mm
+        weight: 1
+      - path: Cross-Map001-Alt 388607.84 mm
+        weight: 1
+      - path: Cross-Map001-Alt 395107.8398 mm
+        weight: 1
+      - path: Cross-Map002-Alt 389107.84 mm
+        weight: 1
+      - path: Cross-Map002-Alt 395607.8398 mm
+        weight: 1
+      - path: Cross-Map003-Alt 389607.84 mm
+        weight: 1
+      - path: Cross-Map003-Alt 396107.8398 mm
+        weight: 1
+      - path: Cross-Map004-Alt 390107.84 mm
+        weight: 1
+      - path: Cross-Map004-Alt 396607.8398 mm
+        weight: 1
+      - path: Cross-Map005-Alt 390607.84 mm
+        weight: 1
+      - path: Cross-Map005-Alt 397107.8398 mm
+        weight: 1
+      - path: Cross-Map006-Alt 391107.84 mm
+        weight: 1
+      - path: Cross-Map006-Alt 397607.8398 mm
+        weight: 1
+      - path: Cross-Map007-Alt 391607.84 mm
+        weight: 1
+      - path: Cross-Map007-Alt 398107.8398 mm
+        weight: 1
+      - path: Cross-Map008-Alt 392107.84 mm
+        weight: 1
+      - path: Cross-Map008-Alt 398607.8398 mm
+        weight: 1
+      - path: Cross-Map009-Alt 392607.84 mm
+        weight: 1
+      - path: Cross-Map009-Alt 399107.8398 mm
+        weight: 1
+      - path: Cross-Map010-Alt 393107.84 mm
+        weight: 1
+      - path: Cross-Map010-Alt 399607.8398 mm
+        weight: 1
+      - path: Cross-Map011-Alt 400107.8398 mm
+        weight: 1
+      - path: Cross-Map012-Alt 394107.84 mm
+        weight: 1
+      - path: Cross-Map012-Alt 400607.8398 mm
+        weight: 1
+      - path: Cross-Map013-Alt 394607.84 mm
+        weight: 1
+      - path: Cross-Map013-Alt 401107.8398 mm
+        weight: 1
+      - path: Cross-Map014-Alt 395107.84 mm
+        weight: 1
+      - path: Cross-Map015-Alt 395607.84 mm
+        weight: 1
+      - path: Cross-Map016-Alt 396107.84 mm
+        weight: 1
+      - path: Cross-Map017-Alt 396607.84 mm
+        weight: 1
+      - path: Cross-Map018-Alt 397107.84 mm
+        weight: 1
+      - path: Cross-Map019-Alt 397607.84 mm
+        weight: 1
+      - path: Cross-Map020-Alt 398107.84 mm
+        weight: 1
+      - path: Cross-Map021-Alt 398607.84 mm
+        weight: 1
+      - path: Cross-Map022-Alt 399107.84 mm
+        weight: 1
+      - path: Cross-Map023-Alt 399607.84 mm
+        weight: 1
+      - path: Cross-Map024-Alt 400107.84 mm
+        weight: 1
+      - path: Cross-Map025-Alt 400607.84 mm
+        weight: 1
+      - path: Cross-Map026-Alt 401107.84 mm
+        weight: 1
+      - path: Cross-Map027-Alt 401607.84 mm
+        weight: 1
+      - path: Cross-Map028-Alt 402107.84 mm
+        weight: 1
+      - path: Cross-Map029-Alt 402607.84 mm
+        weight: 1
+      - path: Cross-Map030-Alt 403107.84 mm
+        weight: 1
+      - path: Cross-Map031-Alt 403607.84 mm
+        weight: 1
+      - path: Cross-Map032-Alt 404107.84 mm
+        weight: 1
+      - path: Curvas_CAD_dwg
+        weight: 1
+      - path: Cylinder001
+        weight: 1
+      - path: Cylinder002
+        weight: 1
+      - path: Cylinder003
+        weight: 1
+      - path: Cylinder004
+        weight: 1
+      - path: Cylinder007
+        weight: 1
+      - path: Cylinder009
+        weight: 1
+      - path: Cylinder011
+        weight: 1
+      - path: Cylinder013
+        weight: 1
+      - path: Cylinder014
+        weight: 1
+      - path: Cylinder015
+        weight: 1
+      - path: Cylinder016
+        weight: 1
+      - path: Cylinder017
+        weight: 1
+      - path: Cylinder018
+        weight: 1
+      - path: Cylinder019
+        weight: 1
+      - path: Cylinder020
+        weight: 1
+      - path: Daniel Tren A
+        weight: 1
+      - path: E-CABL-TRAY
+        weight: 1
+      - path: E-CABL-TRAY-CNTR
+        weight: 1
+      - path: E-ELEC-EQPM
+        weight: 1
+      - path: E-LITE-EQPM
+        weight: 1
+      - path: L-SITE
+        weight: 1
+      - path: Line002
+        weight: 1
+      - path: Line003
+        weight: 1
+      - path: Line004
+        weight: 1
+      - path: M-EQPM
+        weight: 1
+      - path: M-HVAC-DUCT
+        weight: 1
+      - path: M-HVAC-DUCT-CNTR
+        weight: 1
+      - path: Malla_RVT_SX2
+        weight: 1
+      - path: Malla_RW_01
+        weight: 1
+      - path: Object022
+        weight: 1
+      - path: Object023
+        weight: 1
+      - path: Object026
+        weight: 1
+      - path: Object027
+        weight: 1
+      - path: Object028
+        weight: 1
+      - path: Object029
+        weight: 1
+      - path: Object030
+        weight: 1
+      - path: Object031
+        weight: 1
+      - path: Object032
+        weight: 1
+      - path: Object033
+        weight: 1
+      - path: Object034
+        weight: 1
+      - path: Object035
+        weight: 1
+      - path: Object036
+        weight: 1
+      - path: P-PIPE
+        weight: 1
+      - path: P-PIPE-CNTR
+        weight: 1
+      - path: pie
+        weight: 1
+      - path: Predeterminado
+        weight: 1
+      - path: Q-SPCQ
+        weight: 1
+      - path: S-BEAM
+        weight: 1
+      - path: S-COLS
+        weight: 1
+      - path: S-FNDN
+        weight: 1
+      - path: S-FSTN
+        weight: 1
+      - path: S-STRS
+        weight: 1
+      - path: Vertices-poligonal
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: paso01
+      takeName: Take 001
+      firstFrame: 160
+      lastFrame: 261
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: 0
+        weight: 1
+      - path: A-DETL-GENF
+        weight: 1
+      - path: A-FLOR
+        weight: 1
+      - path: A-FLOR-HRAL
+        weight: 1
+      - path: A-GENM
+        weight: 1
+      - path: A-ROOF
+        weight: 1
+      - path: A-WALL
+        weight: 1
+      - path: Baranda_Nueva
+        weight: 1
+      - path: Baranda_Nueva/Box042
+        weight: 1
+      - path: Baranda_Nueva/Box076
+        weight: 1
+      - path: Baranda_Nueva/Box078
+        weight: 1
+      - path: Baranda_Nueva/Box081
+        weight: 1
+      - path: Baranda_Nueva/Box082
+        weight: 1
+      - path: Baranda_Nueva/Box085
+        weight: 1
+      - path: Baranda_Nueva/Box086
+        weight: 1
+      - path: Baranda_Nueva/Box087
+        weight: 1
+      - path: Baranda_Nueva/Box088
+        weight: 1
+      - path: Baranda_Nueva/Box089
+        weight: 1
+      - path: Baranda_Nueva/Box090
+        weight: 1
+      - path: Baranda_Nueva/Box091
+        weight: 1
+      - path: Baranda_Nueva/Box092
+        weight: 1
+      - path: Baranda_Nueva/Box093
+        weight: 1
+      - path: Baranda_Nueva/Box094
+        weight: 1
+      - path: Baranda_Nueva/Box095
+        weight: 1
+      - path: Baranda_Nueva/Box096
+        weight: 1
+      - path: Baranda_Nueva/Box098
+        weight: 1
+      - path: Baranda_Nueva/Box099
+        weight: 1
+      - path: Baranda_Nueva/Box101
+        weight: 1
+      - path: Baranda_Nueva/Box102
+        weight: 1
+      - path: Baranda_Nueva/Box103
+        weight: 1
+      - path: Baranda_Nueva/Box104
+        weight: 1
+      - path: Baranda_Nueva/Box105
+        weight: 1
+      - path: Baranda_Vieja
+        weight: 1
+      - path: Baranda_Vieja/Box100
+        weight: 1
+      - path: Baranda_Vieja/Box109
+        weight: 1
+      - path: Baranda_Vieja/Box110
+        weight: 1
+      - path: Baranda_Vieja/Box111
+        weight: 1
+      - path: Baranda_Vieja/Box112
+        weight: 1
+      - path: Baranda_Vieja/Box113
+        weight: 1
+      - path: Baranda_Vieja/Box114
+        weight: 1
+      - path: Baranda_Vieja/Box115
+        weight: 1
+      - path: Baranda_Vieja/Box116
+        weight: 1
+      - path: Baranda_Vieja/Box117
+        weight: 1
+      - path: Baranda_Vieja/Box118
+        weight: 1
+      - path: Baranda_Vieja/Box119
+        weight: 1
+      - path: Baranda_Vieja/Box120
+        weight: 1
+      - path: Baranda_Vieja/Box121
+        weight: 1
+      - path: Baranda_Vieja/Box122
+        weight: 1
+      - path: Baranda_Vieja/Box123
+        weight: 1
+      - path: Baranda_Vieja/Box124
+        weight: 1
+      - path: Baranda_Vieja/Box125
+        weight: 1
+      - path: Baranda_Vieja/Box126
+        weight: 1
+      - path: Baranda_Vieja/Box127
+        weight: 1
+      - path: Baranda_Vieja/Box128
+        weight: 1
+      - path: Baranda_Vieja/Box129
+        weight: 1
+      - path: Baranda_Vieja/Box130
+        weight: 1
+      - path: Baranda_Vieja/Box131
+        weight: 1
+      - path: Baranda_Vieja/Box132
+        weight: 1
+      - path: Borde-camino
+        weight: 1
+      - path: Box106
+        weight: 1
+      - path: C Indice
+        weight: 1
+      - path: C Intermedia
+        weight: 1
+      - path: C-TOPO
+        weight: 1
+      - path: C-TOPO-MAJR
+        weight: 1
+      - path: C-TOPO-MINR
+        weight: 1
+      - path: Cross-Map000-Alt 388107.84 mm
+        weight: 1
+      - path: Cross-Map000-Alt 394607.8398 mm
+        weight: 1
+      - path: Cross-Map001-Alt 388607.84 mm
+        weight: 1
+      - path: Cross-Map001-Alt 395107.8398 mm
+        weight: 1
+      - path: Cross-Map002-Alt 389107.84 mm
+        weight: 1
+      - path: Cross-Map002-Alt 395607.8398 mm
+        weight: 1
+      - path: Cross-Map003-Alt 389607.84 mm
+        weight: 1
+      - path: Cross-Map003-Alt 396107.8398 mm
+        weight: 1
+      - path: Cross-Map004-Alt 390107.84 mm
+        weight: 1
+      - path: Cross-Map004-Alt 396607.8398 mm
+        weight: 1
+      - path: Cross-Map005-Alt 390607.84 mm
+        weight: 1
+      - path: Cross-Map005-Alt 397107.8398 mm
+        weight: 1
+      - path: Cross-Map006-Alt 391107.84 mm
+        weight: 1
+      - path: Cross-Map006-Alt 397607.8398 mm
+        weight: 1
+      - path: Cross-Map007-Alt 391607.84 mm
+        weight: 1
+      - path: Cross-Map007-Alt 398107.8398 mm
+        weight: 1
+      - path: Cross-Map008-Alt 392107.84 mm
+        weight: 1
+      - path: Cross-Map008-Alt 398607.8398 mm
+        weight: 1
+      - path: Cross-Map009-Alt 392607.84 mm
+        weight: 1
+      - path: Cross-Map009-Alt 399107.8398 mm
+        weight: 1
+      - path: Cross-Map010-Alt 393107.84 mm
+        weight: 1
+      - path: Cross-Map010-Alt 399607.8398 mm
+        weight: 1
+      - path: Cross-Map011-Alt 400107.8398 mm
+        weight: 1
+      - path: Cross-Map012-Alt 394107.84 mm
+        weight: 1
+      - path: Cross-Map012-Alt 400607.8398 mm
+        weight: 1
+      - path: Cross-Map013-Alt 394607.84 mm
+        weight: 1
+      - path: Cross-Map013-Alt 401107.8398 mm
+        weight: 1
+      - path: Cross-Map014-Alt 395107.84 mm
+        weight: 1
+      - path: Cross-Map015-Alt 395607.84 mm
+        weight: 1
+      - path: Cross-Map016-Alt 396107.84 mm
+        weight: 1
+      - path: Cross-Map017-Alt 396607.84 mm
+        weight: 1
+      - path: Cross-Map018-Alt 397107.84 mm
+        weight: 1
+      - path: Cross-Map019-Alt 397607.84 mm
+        weight: 1
+      - path: Cross-Map020-Alt 398107.84 mm
+        weight: 1
+      - path: Cross-Map021-Alt 398607.84 mm
+        weight: 1
+      - path: Cross-Map022-Alt 399107.84 mm
+        weight: 1
+      - path: Cross-Map023-Alt 399607.84 mm
+        weight: 1
+      - path: Cross-Map024-Alt 400107.84 mm
+        weight: 1
+      - path: Cross-Map025-Alt 400607.84 mm
+        weight: 1
+      - path: Cross-Map026-Alt 401107.84 mm
+        weight: 1
+      - path: Cross-Map027-Alt 401607.84 mm
+        weight: 1
+      - path: Cross-Map028-Alt 402107.84 mm
+        weight: 1
+      - path: Cross-Map029-Alt 402607.84 mm
+        weight: 1
+      - path: Cross-Map030-Alt 403107.84 mm
+        weight: 1
+      - path: Cross-Map031-Alt 403607.84 mm
+        weight: 1
+      - path: Cross-Map032-Alt 404107.84 mm
+        weight: 1
+      - path: Curvas_CAD_dwg
+        weight: 1
+      - path: Cylinder001
+        weight: 1
+      - path: Cylinder002
+        weight: 1
+      - path: Cylinder003
+        weight: 1
+      - path: Cylinder004
+        weight: 1
+      - path: Cylinder007
+        weight: 1
+      - path: Cylinder009
+        weight: 1
+      - path: Cylinder011
+        weight: 1
+      - path: Cylinder013
+        weight: 1
+      - path: Cylinder014
+        weight: 1
+      - path: Cylinder015
+        weight: 1
+      - path: Cylinder016
+        weight: 1
+      - path: Cylinder017
+        weight: 1
+      - path: Cylinder018
+        weight: 1
+      - path: Cylinder019
+        weight: 1
+      - path: Cylinder020
+        weight: 1
+      - path: Daniel Tren A
+        weight: 1
+      - path: E-CABL-TRAY
+        weight: 1
+      - path: E-CABL-TRAY-CNTR
+        weight: 1
+      - path: E-ELEC-EQPM
+        weight: 1
+      - path: E-LITE-EQPM
+        weight: 1
+      - path: L-SITE
+        weight: 1
+      - path: Line002
+        weight: 1
+      - path: Line003
+        weight: 1
+      - path: Line004
+        weight: 1
+      - path: M-EQPM
+        weight: 1
+      - path: M-HVAC-DUCT
+        weight: 1
+      - path: M-HVAC-DUCT-CNTR
+        weight: 1
+      - path: Malla_RVT_SX2
+        weight: 1
+      - path: Malla_RW_01
+        weight: 1
+      - path: Object022
+        weight: 1
+      - path: Object023
+        weight: 1
+      - path: Object026
+        weight: 1
+      - path: Object027
+        weight: 1
+      - path: Object028
+        weight: 1
+      - path: Object029
+        weight: 1
+      - path: Object030
+        weight: 1
+      - path: Object031
+        weight: 1
+      - path: Object032
+        weight: 1
+      - path: Object033
+        weight: 1
+      - path: Object034
+        weight: 1
+      - path: Object035
+        weight: 1
+      - path: Object036
+        weight: 1
+      - path: P-PIPE
+        weight: 1
+      - path: P-PIPE-CNTR
+        weight: 1
+      - path: pie
+        weight: 1
+      - path: Predeterminado
+        weight: 1
+      - path: Q-SPCQ
+        weight: 1
+      - path: S-BEAM
+        weight: 1
+      - path: S-COLS
+        weight: 1
+      - path: S-FNDN
+        weight: 1
+      - path: S-FSTN
+        weight: 1
+      - path: S-STRS
+        weight: 1
+      - path: Vertices-poligonal
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: paso02
+      takeName: Take 001
+      firstFrame: 160
+      lastFrame: 261
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Baranda_Nueva
+        weight: 1
+      - path: Baranda_Nueva/Box042
+        weight: 1
+      - path: Baranda_Nueva/Box076
+        weight: 1
+      - path: Baranda_Nueva/Box078
+        weight: 1
+      - path: Baranda_Nueva/Box081
+        weight: 1
+      - path: Baranda_Nueva/Box082
+        weight: 1
+      - path: Baranda_Nueva/Box085
+        weight: 1
+      - path: Baranda_Nueva/Box086
+        weight: 1
+      - path: Baranda_Nueva/Box087
+        weight: 1
+      - path: Baranda_Nueva/Box088
+        weight: 1
+      - path: Baranda_Nueva/Box089
+        weight: 1
+      - path: Baranda_Nueva/Box090
+        weight: 1
+      - path: Baranda_Nueva/Box091
+        weight: 1
+      - path: Baranda_Nueva/Box092
+        weight: 1
+      - path: Baranda_Nueva/Box093
+        weight: 1
+      - path: Baranda_Nueva/Box094
+        weight: 1
+      - path: Baranda_Nueva/Box095
+        weight: 1
+      - path: Baranda_Nueva/Box096
+        weight: 1
+      - path: Baranda_Nueva/Box098
+        weight: 1
+      - path: Baranda_Nueva/Box099
+        weight: 1
+      - path: Baranda_Nueva/Box101
+        weight: 1
+      - path: Baranda_Nueva/Box102
+        weight: 1
+      - path: Baranda_Nueva/Box103
+        weight: 1
+      - path: Baranda_Nueva/Box104
+        weight: 1
+      - path: Baranda_Nueva/Box105
+        weight: 1
+      - path: Baranda_Vieja
+        weight: 1
+      - path: Baranda_Vieja/Box100
+        weight: 1
+      - path: Baranda_Vieja/Box109
+        weight: 1
+      - path: Baranda_Vieja/Box110
+        weight: 1
+      - path: Baranda_Vieja/Box111
+        weight: 1
+      - path: Baranda_Vieja/Box112
+        weight: 1
+      - path: Baranda_Vieja/Box113
+        weight: 1
+      - path: Baranda_Vieja/Box114
+        weight: 1
+      - path: Baranda_Vieja/Box115
+        weight: 1
+      - path: Baranda_Vieja/Box116
+        weight: 1
+      - path: Baranda_Vieja/Box117
+        weight: 1
+      - path: Baranda_Vieja/Box118
+        weight: 1
+      - path: Baranda_Vieja/Box119
+        weight: 1
+      - path: Baranda_Vieja/Box120
+        weight: 1
+      - path: Baranda_Vieja/Box121
+        weight: 1
+      - path: Baranda_Vieja/Box122
+        weight: 1
+      - path: Baranda_Vieja/Box123
+        weight: 1
+      - path: Baranda_Vieja/Box124
+        weight: 1
+      - path: Baranda_Vieja/Box125
+        weight: 1
+      - path: Baranda_Vieja/Box126
+        weight: 1
+      - path: Baranda_Vieja/Box127
+        weight: 1
+      - path: Baranda_Vieja/Box128
+        weight: 1
+      - path: Baranda_Vieja/Box129
+        weight: 1
+      - path: Baranda_Vieja/Box130
+        weight: 1
+      - path: Baranda_Vieja/Box131
+        weight: 1
+      - path: Baranda_Vieja/Box132
+        weight: 1
+      - path: Cylinder001
+        weight: 1
+      - path: Cylinder013
+        weight: 1
+      - path: Cylinder020
+        weight: 1
+      - path: Line002
+        weight: 1
+      - path: Line003
+        weight: 1
+      - path: Line004
+        weight: 1
+      - path: Object022
+        weight: 1
+      - path: Object023
+        weight: 1
+      - path: Object026
+        weight: 1
+      - path: Object027
+        weight: 1
+      - path: Object028
+        weight: 1
+      - path: Object029
+        weight: 1
+      - path: Object030
+        weight: 1
+      - path: Object031
+        weight: 1
+      - path: Object032
+        weight: 1
+      - path: Object033
+        weight: 1
+      - path: Object034
+        weight: 1
+      - path: Object035
+        weight: 1
+      - path: Object036
+        weight: 1
+      - path: radier
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: paso03
+      takeName: Take 001
+      firstFrame: 270
+      lastFrame: 355
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Baranda_Nueva
+        weight: 1
+      - path: Baranda_Nueva/Box042
+        weight: 1
+      - path: Baranda_Nueva/Box076
+        weight: 1
+      - path: Baranda_Nueva/Box078
+        weight: 1
+      - path: Baranda_Nueva/Box081
+        weight: 1
+      - path: Baranda_Nueva/Box082
+        weight: 1
+      - path: Baranda_Nueva/Box085
+        weight: 1
+      - path: Baranda_Nueva/Box086
+        weight: 1
+      - path: Baranda_Nueva/Box087
+        weight: 1
+      - path: Baranda_Nueva/Box088
+        weight: 1
+      - path: Baranda_Nueva/Box089
+        weight: 1
+      - path: Baranda_Nueva/Box090
+        weight: 1
+      - path: Baranda_Nueva/Box091
+        weight: 1
+      - path: Baranda_Nueva/Box092
+        weight: 1
+      - path: Baranda_Nueva/Box093
+        weight: 1
+      - path: Baranda_Nueva/Box094
+        weight: 1
+      - path: Baranda_Nueva/Box095
+        weight: 1
+      - path: Baranda_Nueva/Box096
+        weight: 1
+      - path: Baranda_Nueva/Box098
+        weight: 1
+      - path: Baranda_Nueva/Box099
+        weight: 1
+      - path: Baranda_Nueva/Box101
+        weight: 1
+      - path: Baranda_Nueva/Box102
+        weight: 1
+      - path: Baranda_Nueva/Box103
+        weight: 1
+      - path: Baranda_Nueva/Box104
+        weight: 1
+      - path: Baranda_Nueva/Box105
+        weight: 1
+      - path: Baranda_Vieja
+        weight: 1
+      - path: Baranda_Vieja/Box100
+        weight: 1
+      - path: Baranda_Vieja/Box109
+        weight: 1
+      - path: Baranda_Vieja/Box110
+        weight: 1
+      - path: Baranda_Vieja/Box111
+        weight: 1
+      - path: Baranda_Vieja/Box112
+        weight: 1
+      - path: Baranda_Vieja/Box113
+        weight: 1
+      - path: Baranda_Vieja/Box114
+        weight: 1
+      - path: Baranda_Vieja/Box115
+        weight: 1
+      - path: Baranda_Vieja/Box116
+        weight: 1
+      - path: Baranda_Vieja/Box117
+        weight: 1
+      - path: Baranda_Vieja/Box118
+        weight: 1
+      - path: Baranda_Vieja/Box119
+        weight: 1
+      - path: Baranda_Vieja/Box120
+        weight: 1
+      - path: Baranda_Vieja/Box121
+        weight: 1
+      - path: Baranda_Vieja/Box122
+        weight: 1
+      - path: Baranda_Vieja/Box123
+        weight: 1
+      - path: Baranda_Vieja/Box124
+        weight: 1
+      - path: Baranda_Vieja/Box125
+        weight: 1
+      - path: Baranda_Vieja/Box126
+        weight: 1
+      - path: Baranda_Vieja/Box127
+        weight: 1
+      - path: Baranda_Vieja/Box128
+        weight: 1
+      - path: Baranda_Vieja/Box129
+        weight: 1
+      - path: Baranda_Vieja/Box130
+        weight: 1
+      - path: Baranda_Vieja/Box131
+        weight: 1
+      - path: Baranda_Vieja/Box132
+        weight: 1
+      - path: Cylinder001
+        weight: 1
+      - path: Cylinder013
+        weight: 1
+      - path: Cylinder020
+        weight: 1
+      - path: Line002
+        weight: 1
+      - path: Line003
+        weight: 1
+      - path: Line004
+        weight: 1
+      - path: Object022
+        weight: 1
+      - path: Object023
+        weight: 1
+      - path: Object026
+        weight: 1
+      - path: Object027
+        weight: 1
+      - path: Object028
+        weight: 1
+      - path: Object029
+        weight: 1
+      - path: Object030
+        weight: 1
+      - path: Object031
+        weight: 1
+      - path: Object032
+        weight: 1
+      - path: Object033
+        weight: 1
+      - path: Object034
+        weight: 1
+      - path: Object035
+        weight: 1
+      - path: Object036
+        weight: 1
+      - path: radier
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: paso04
+      takeName: Take 001
+      firstFrame: 360
+      lastFrame: 420
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Baranda_Nueva
+        weight: 1
+      - path: Baranda_Nueva/Box042
+        weight: 1
+      - path: Baranda_Nueva/Box076
+        weight: 1
+      - path: Baranda_Nueva/Box078
+        weight: 1
+      - path: Baranda_Nueva/Box081
+        weight: 1
+      - path: Baranda_Nueva/Box082
+        weight: 1
+      - path: Baranda_Nueva/Box085
+        weight: 1
+      - path: Baranda_Nueva/Box086
+        weight: 1
+      - path: Baranda_Nueva/Box087
+        weight: 1
+      - path: Baranda_Nueva/Box088
+        weight: 1
+      - path: Baranda_Nueva/Box089
+        weight: 1
+      - path: Baranda_Nueva/Box090
+        weight: 1
+      - path: Baranda_Nueva/Box091
+        weight: 1
+      - path: Baranda_Nueva/Box092
+        weight: 1
+      - path: Baranda_Nueva/Box093
+        weight: 1
+      - path: Baranda_Nueva/Box094
+        weight: 1
+      - path: Baranda_Nueva/Box095
+        weight: 1
+      - path: Baranda_Nueva/Box096
+        weight: 1
+      - path: Baranda_Nueva/Box098
+        weight: 1
+      - path: Baranda_Nueva/Box099
+        weight: 1
+      - path: Baranda_Nueva/Box101
+        weight: 1
+      - path: Baranda_Nueva/Box102
+        weight: 1
+      - path: Baranda_Nueva/Box103
+        weight: 1
+      - path: Baranda_Nueva/Box104
+        weight: 1
+      - path: Baranda_Nueva/Box105
+        weight: 1
+      - path: Baranda_Vieja
+        weight: 1
+      - path: Baranda_Vieja/Box100
+        weight: 1
+      - path: Baranda_Vieja/Box109
+        weight: 1
+      - path: Baranda_Vieja/Box110
+        weight: 1
+      - path: Baranda_Vieja/Box111
+        weight: 1
+      - path: Baranda_Vieja/Box112
+        weight: 1
+      - path: Baranda_Vieja/Box113
+        weight: 1
+      - path: Baranda_Vieja/Box114
+        weight: 1
+      - path: Baranda_Vieja/Box115
+        weight: 1
+      - path: Baranda_Vieja/Box116
+        weight: 1
+      - path: Baranda_Vieja/Box117
+        weight: 1
+      - path: Baranda_Vieja/Box118
+        weight: 1
+      - path: Baranda_Vieja/Box119
+        weight: 1
+      - path: Baranda_Vieja/Box120
+        weight: 1
+      - path: Baranda_Vieja/Box121
+        weight: 1
+      - path: Baranda_Vieja/Box122
+        weight: 1
+      - path: Baranda_Vieja/Box123
+        weight: 1
+      - path: Baranda_Vieja/Box124
+        weight: 1
+      - path: Baranda_Vieja/Box125
+        weight: 1
+      - path: Baranda_Vieja/Box126
+        weight: 1
+      - path: Baranda_Vieja/Box127
+        weight: 1
+      - path: Baranda_Vieja/Box128
+        weight: 1
+      - path: Baranda_Vieja/Box129
+        weight: 1
+      - path: Baranda_Vieja/Box130
+        weight: 1
+      - path: Baranda_Vieja/Box131
+        weight: 1
+      - path: Baranda_Vieja/Box132
+        weight: 1
+      - path: Cylinder001
+        weight: 1
+      - path: Cylinder013
+        weight: 1
+      - path: Cylinder020
+        weight: 1
+      - path: Line002
+        weight: 1
+      - path: Line003
+        weight: 1
+      - path: Line004
+        weight: 1
+      - path: Object022
+        weight: 1
+      - path: Object023
+        weight: 1
+      - path: Object026
+        weight: 1
+      - path: Object027
+        weight: 1
+      - path: Object028
+        weight: 1
+      - path: Object029
+        weight: 1
+      - path: Object030
+        weight: 1
+      - path: Object031
+        weight: 1
+      - path: Object032
+        weight: 1
+      - path: Object033
+        weight: 1
+      - path: Object034
+        weight: 1
+      - path: Object035
+        weight: 1
+      - path: Object036
+        weight: 1
+      - path: radier
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: paso05
+      takeName: Take 001
+      firstFrame: 430
+      lastFrame: 490
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Baranda_Nueva
+        weight: 1
+      - path: Baranda_Nueva/Box042
+        weight: 1
+      - path: Baranda_Nueva/Box076
+        weight: 1
+      - path: Baranda_Nueva/Box078
+        weight: 1
+      - path: Baranda_Nueva/Box081
+        weight: 1
+      - path: Baranda_Nueva/Box082
+        weight: 1
+      - path: Baranda_Nueva/Box085
+        weight: 1
+      - path: Baranda_Nueva/Box086
+        weight: 1
+      - path: Baranda_Nueva/Box087
+        weight: 1
+      - path: Baranda_Nueva/Box088
+        weight: 1
+      - path: Baranda_Nueva/Box089
+        weight: 1
+      - path: Baranda_Nueva/Box090
+        weight: 1
+      - path: Baranda_Nueva/Box091
+        weight: 1
+      - path: Baranda_Nueva/Box092
+        weight: 1
+      - path: Baranda_Nueva/Box093
+        weight: 1
+      - path: Baranda_Nueva/Box094
+        weight: 1
+      - path: Baranda_Nueva/Box095
+        weight: 1
+      - path: Baranda_Nueva/Box096
+        weight: 1
+      - path: Baranda_Nueva/Box098
+        weight: 1
+      - path: Baranda_Nueva/Box099
+        weight: 1
+      - path: Baranda_Nueva/Box101
+        weight: 1
+      - path: Baranda_Nueva/Box102
+        weight: 1
+      - path: Baranda_Nueva/Box103
+        weight: 1
+      - path: Baranda_Nueva/Box104
+        weight: 1
+      - path: Baranda_Nueva/Box105
+        weight: 1
+      - path: Baranda_Vieja
+        weight: 1
+      - path: Baranda_Vieja/Box100
+        weight: 1
+      - path: Baranda_Vieja/Box109
+        weight: 1
+      - path: Baranda_Vieja/Box110
+        weight: 1
+      - path: Baranda_Vieja/Box111
+        weight: 1
+      - path: Baranda_Vieja/Box112
+        weight: 1
+      - path: Baranda_Vieja/Box113
+        weight: 1
+      - path: Baranda_Vieja/Box114
+        weight: 1
+      - path: Baranda_Vieja/Box115
+        weight: 1
+      - path: Baranda_Vieja/Box116
+        weight: 1
+      - path: Baranda_Vieja/Box117
+        weight: 1
+      - path: Baranda_Vieja/Box118
+        weight: 1
+      - path: Baranda_Vieja/Box119
+        weight: 1
+      - path: Baranda_Vieja/Box120
+        weight: 1
+      - path: Baranda_Vieja/Box121
+        weight: 1
+      - path: Baranda_Vieja/Box122
+        weight: 1
+      - path: Baranda_Vieja/Box123
+        weight: 1
+      - path: Baranda_Vieja/Box124
+        weight: 1
+      - path: Baranda_Vieja/Box125
+        weight: 1
+      - path: Baranda_Vieja/Box126
+        weight: 1
+      - path: Baranda_Vieja/Box127
+        weight: 1
+      - path: Baranda_Vieja/Box128
+        weight: 1
+      - path: Baranda_Vieja/Box129
+        weight: 1
+      - path: Baranda_Vieja/Box130
+        weight: 1
+      - path: Baranda_Vieja/Box131
+        weight: 1
+      - path: Baranda_Vieja/Box132
+        weight: 1
+      - path: Cylinder001
+        weight: 1
+      - path: Cylinder013
+        weight: 1
+      - path: Cylinder020
+        weight: 1
+      - path: Line002
+        weight: 1
+      - path: Line003
+        weight: 1
+      - path: Line004
+        weight: 1
+      - path: Object022
+        weight: 1
+      - path: Object023
+        weight: 1
+      - path: Object026
+        weight: 1
+      - path: Object027
+        weight: 1
+      - path: Object028
+        weight: 1
+      - path: Object029
+        weight: 1
+      - path: Object030
+        weight: 1
+      - path: Object031
+        weight: 1
+      - path: Object032
+        weight: 1
+      - path: Object033
+        weight: 1
+      - path: Object034
+        weight: 1
+      - path: Object035
+        weight: 1
+      - path: Object036
+        weight: 1
+      - path: radier
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: paso06
+      takeName: Take 001
+      firstFrame: 500
+      lastFrame: 560
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Baranda_Nueva
+        weight: 1
+      - path: Baranda_Nueva/Box042
+        weight: 1
+      - path: Baranda_Nueva/Box076
+        weight: 1
+      - path: Baranda_Nueva/Box078
+        weight: 1
+      - path: Baranda_Nueva/Box081
+        weight: 1
+      - path: Baranda_Nueva/Box082
+        weight: 1
+      - path: Baranda_Nueva/Box085
+        weight: 1
+      - path: Baranda_Nueva/Box086
+        weight: 1
+      - path: Baranda_Nueva/Box087
+        weight: 1
+      - path: Baranda_Nueva/Box088
+        weight: 1
+      - path: Baranda_Nueva/Box089
+        weight: 1
+      - path: Baranda_Nueva/Box090
+        weight: 1
+      - path: Baranda_Nueva/Box091
+        weight: 1
+      - path: Baranda_Nueva/Box092
+        weight: 1
+      - path: Baranda_Nueva/Box093
+        weight: 1
+      - path: Baranda_Nueva/Box094
+        weight: 1
+      - path: Baranda_Nueva/Box095
+        weight: 1
+      - path: Baranda_Nueva/Box096
+        weight: 1
+      - path: Baranda_Nueva/Box098
+        weight: 1
+      - path: Baranda_Nueva/Box099
+        weight: 1
+      - path: Baranda_Nueva/Box101
+        weight: 1
+      - path: Baranda_Nueva/Box102
+        weight: 1
+      - path: Baranda_Nueva/Box103
+        weight: 1
+      - path: Baranda_Nueva/Box104
+        weight: 1
+      - path: Baranda_Nueva/Box105
+        weight: 1
+      - path: Baranda_Vieja
+        weight: 1
+      - path: Baranda_Vieja/Box100
+        weight: 1
+      - path: Baranda_Vieja/Box109
+        weight: 1
+      - path: Baranda_Vieja/Box110
+        weight: 1
+      - path: Baranda_Vieja/Box111
+        weight: 1
+      - path: Baranda_Vieja/Box112
+        weight: 1
+      - path: Baranda_Vieja/Box113
+        weight: 1
+      - path: Baranda_Vieja/Box114
+        weight: 1
+      - path: Baranda_Vieja/Box115
+        weight: 1
+      - path: Baranda_Vieja/Box116
+        weight: 1
+      - path: Baranda_Vieja/Box117
+        weight: 1
+      - path: Baranda_Vieja/Box118
+        weight: 1
+      - path: Baranda_Vieja/Box119
+        weight: 1
+      - path: Baranda_Vieja/Box120
+        weight: 1
+      - path: Baranda_Vieja/Box121
+        weight: 1
+      - path: Baranda_Vieja/Box122
+        weight: 1
+      - path: Baranda_Vieja/Box123
+        weight: 1
+      - path: Baranda_Vieja/Box124
+        weight: 1
+      - path: Baranda_Vieja/Box125
+        weight: 1
+      - path: Baranda_Vieja/Box126
+        weight: 1
+      - path: Baranda_Vieja/Box127
+        weight: 1
+      - path: Baranda_Vieja/Box128
+        weight: 1
+      - path: Baranda_Vieja/Box129
+        weight: 1
+      - path: Baranda_Vieja/Box130
+        weight: 1
+      - path: Baranda_Vieja/Box131
+        weight: 1
+      - path: Baranda_Vieja/Box132
+        weight: 1
+      - path: Cylinder001
+        weight: 1
+      - path: Cylinder013
+        weight: 1
+      - path: Cylinder020
+        weight: 1
+      - path: Line002
+        weight: 1
+      - path: Line003
+        weight: 1
+      - path: Line004
+        weight: 1
+      - path: Object022
+        weight: 1
+      - path: Object023
+        weight: 1
+      - path: Object026
+        weight: 1
+      - path: Object027
+        weight: 1
+      - path: Object028
+        weight: 1
+      - path: Object029
+        weight: 1
+      - path: Object030
+        weight: 1
+      - path: Object031
+        weight: 1
+      - path: Object032
+        weight: 1
+      - path: Object033
+        weight: 1
+      - path: Object034
+        weight: 1
+      - path: Object035
+        weight: 1
+      - path: Object036
+        weight: 1
+      - path: radier
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: paso07
+      takeName: Take 001
+      firstFrame: 580
+      lastFrame: 660
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Baranda_Nueva
+        weight: 1
+      - path: Baranda_Nueva/Box042
+        weight: 1
+      - path: Baranda_Nueva/Box076
+        weight: 1
+      - path: Baranda_Nueva/Box078
+        weight: 1
+      - path: Baranda_Nueva/Box081
+        weight: 1
+      - path: Baranda_Nueva/Box082
+        weight: 1
+      - path: Baranda_Nueva/Box085
+        weight: 1
+      - path: Baranda_Nueva/Box086
+        weight: 1
+      - path: Baranda_Nueva/Box087
+        weight: 1
+      - path: Baranda_Nueva/Box088
+        weight: 1
+      - path: Baranda_Nueva/Box089
+        weight: 1
+      - path: Baranda_Nueva/Box090
+        weight: 1
+      - path: Baranda_Nueva/Box091
+        weight: 1
+      - path: Baranda_Nueva/Box092
+        weight: 1
+      - path: Baranda_Nueva/Box093
+        weight: 1
+      - path: Baranda_Nueva/Box094
+        weight: 1
+      - path: Baranda_Nueva/Box095
+        weight: 1
+      - path: Baranda_Nueva/Box096
+        weight: 1
+      - path: Baranda_Nueva/Box098
+        weight: 1
+      - path: Baranda_Nueva/Box099
+        weight: 1
+      - path: Baranda_Nueva/Box101
+        weight: 1
+      - path: Baranda_Nueva/Box102
+        weight: 1
+      - path: Baranda_Nueva/Box103
+        weight: 1
+      - path: Baranda_Nueva/Box104
+        weight: 1
+      - path: Baranda_Nueva/Box105
+        weight: 1
+      - path: Baranda_Vieja
+        weight: 1
+      - path: Baranda_Vieja/Box100
+        weight: 1
+      - path: Baranda_Vieja/Box109
+        weight: 1
+      - path: Baranda_Vieja/Box110
+        weight: 1
+      - path: Baranda_Vieja/Box111
+        weight: 1
+      - path: Baranda_Vieja/Box112
+        weight: 1
+      - path: Baranda_Vieja/Box113
+        weight: 1
+      - path: Baranda_Vieja/Box114
+        weight: 1
+      - path: Baranda_Vieja/Box115
+        weight: 1
+      - path: Baranda_Vieja/Box116
+        weight: 1
+      - path: Baranda_Vieja/Box117
+        weight: 1
+      - path: Baranda_Vieja/Box118
+        weight: 1
+      - path: Baranda_Vieja/Box119
+        weight: 1
+      - path: Baranda_Vieja/Box120
+        weight: 1
+      - path: Baranda_Vieja/Box121
+        weight: 1
+      - path: Baranda_Vieja/Box122
+        weight: 1
+      - path: Baranda_Vieja/Box123
+        weight: 1
+      - path: Baranda_Vieja/Box124
+        weight: 1
+      - path: Baranda_Vieja/Box125
+        weight: 1
+      - path: Baranda_Vieja/Box126
+        weight: 1
+      - path: Baranda_Vieja/Box127
+        weight: 1
+      - path: Baranda_Vieja/Box128
+        weight: 1
+      - path: Baranda_Vieja/Box129
+        weight: 1
+      - path: Baranda_Vieja/Box130
+        weight: 1
+      - path: Baranda_Vieja/Box131
+        weight: 1
+      - path: Baranda_Vieja/Box132
+        weight: 1
+      - path: Cylinder001
+        weight: 1
+      - path: Cylinder013
+        weight: 1
+      - path: Cylinder020
+        weight: 1
+      - path: Line002
+        weight: 1
+      - path: Line003
+        weight: 1
+      - path: Line004
+        weight: 1
+      - path: Object022
+        weight: 1
+      - path: Object023
+        weight: 1
+      - path: Object026
+        weight: 1
+      - path: Object027
+        weight: 1
+      - path: Object028
+        weight: 1
+      - path: Object029
+        weight: 1
+      - path: Object030
+        weight: 1
+      - path: Object031
+        weight: 1
+      - path: Object032
+        weight: 1
+      - path: Object033
+        weight: 1
+      - path: Object034
+        weight: 1
+      - path: Object035
+        weight: 1
+      - path: Object036
+        weight: 1
+      - path: radier
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: paso08
+      takeName: Take 001
+      firstFrame: 670
+      lastFrame: 740
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Baranda_Nueva
+        weight: 1
+      - path: Baranda_Nueva/Box042
+        weight: 1
+      - path: Baranda_Nueva/Box076
+        weight: 1
+      - path: Baranda_Nueva/Box078
+        weight: 1
+      - path: Baranda_Nueva/Box081
+        weight: 1
+      - path: Baranda_Nueva/Box082
+        weight: 1
+      - path: Baranda_Nueva/Box085
+        weight: 1
+      - path: Baranda_Nueva/Box086
+        weight: 1
+      - path: Baranda_Nueva/Box087
+        weight: 1
+      - path: Baranda_Nueva/Box088
+        weight: 1
+      - path: Baranda_Nueva/Box089
+        weight: 1
+      - path: Baranda_Nueva/Box090
+        weight: 1
+      - path: Baranda_Nueva/Box091
+        weight: 1
+      - path: Baranda_Nueva/Box092
+        weight: 1
+      - path: Baranda_Nueva/Box093
+        weight: 1
+      - path: Baranda_Nueva/Box094
+        weight: 1
+      - path: Baranda_Nueva/Box095
+        weight: 1
+      - path: Baranda_Nueva/Box096
+        weight: 1
+      - path: Baranda_Nueva/Box098
+        weight: 1
+      - path: Baranda_Nueva/Box099
+        weight: 1
+      - path: Baranda_Nueva/Box101
+        weight: 1
+      - path: Baranda_Nueva/Box102
+        weight: 1
+      - path: Baranda_Nueva/Box103
+        weight: 1
+      - path: Baranda_Nueva/Box104
+        weight: 1
+      - path: Baranda_Nueva/Box105
+        weight: 1
+      - path: Baranda_Vieja
+        weight: 1
+      - path: Baranda_Vieja/Box100
+        weight: 1
+      - path: Baranda_Vieja/Box109
+        weight: 1
+      - path: Baranda_Vieja/Box110
+        weight: 1
+      - path: Baranda_Vieja/Box111
+        weight: 1
+      - path: Baranda_Vieja/Box112
+        weight: 1
+      - path: Baranda_Vieja/Box113
+        weight: 1
+      - path: Baranda_Vieja/Box114
+        weight: 1
+      - path: Baranda_Vieja/Box115
+        weight: 1
+      - path: Baranda_Vieja/Box116
+        weight: 1
+      - path: Baranda_Vieja/Box117
+        weight: 1
+      - path: Baranda_Vieja/Box118
+        weight: 1
+      - path: Baranda_Vieja/Box119
+        weight: 1
+      - path: Baranda_Vieja/Box120
+        weight: 1
+      - path: Baranda_Vieja/Box121
+        weight: 1
+      - path: Baranda_Vieja/Box122
+        weight: 1
+      - path: Baranda_Vieja/Box123
+        weight: 1
+      - path: Baranda_Vieja/Box124
+        weight: 1
+      - path: Baranda_Vieja/Box125
+        weight: 1
+      - path: Baranda_Vieja/Box126
+        weight: 1
+      - path: Baranda_Vieja/Box127
+        weight: 1
+      - path: Baranda_Vieja/Box128
+        weight: 1
+      - path: Baranda_Vieja/Box129
+        weight: 1
+      - path: Baranda_Vieja/Box130
+        weight: 1
+      - path: Baranda_Vieja/Box131
+        weight: 1
+      - path: Baranda_Vieja/Box132
+        weight: 1
+      - path: Cylinder001
+        weight: 1
+      - path: Cylinder013
+        weight: 1
+      - path: Cylinder020
+        weight: 1
+      - path: Line002
+        weight: 1
+      - path: Line003
+        weight: 1
+      - path: Line004
+        weight: 1
+      - path: Object022
+        weight: 1
+      - path: Object023
+        weight: 1
+      - path: Object026
+        weight: 1
+      - path: Object027
+        weight: 1
+      - path: Object028
+        weight: 1
+      - path: Object029
+        weight: 1
+      - path: Object030
+        weight: 1
+      - path: Object031
+        weight: 1
+      - path: Object032
+        weight: 1
+      - path: Object033
+        weight: 1
+      - path: Object034
+        weight: 1
+      - path: Object035
+        weight: 1
+      - path: Object036
+        weight: 1
+      - path: radier
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: paso09
+      takeName: Take 001
+      firstFrame: 750
+      lastFrame: 840
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Baranda_Nueva
+        weight: 1
+      - path: Baranda_Nueva/Box042
+        weight: 1
+      - path: Baranda_Nueva/Box076
+        weight: 1
+      - path: Baranda_Nueva/Box078
+        weight: 1
+      - path: Baranda_Nueva/Box081
+        weight: 1
+      - path: Baranda_Nueva/Box082
+        weight: 1
+      - path: Baranda_Nueva/Box085
+        weight: 1
+      - path: Baranda_Nueva/Box086
+        weight: 1
+      - path: Baranda_Nueva/Box087
+        weight: 1
+      - path: Baranda_Nueva/Box088
+        weight: 1
+      - path: Baranda_Nueva/Box089
+        weight: 1
+      - path: Baranda_Nueva/Box090
+        weight: 1
+      - path: Baranda_Nueva/Box091
+        weight: 1
+      - path: Baranda_Nueva/Box092
+        weight: 1
+      - path: Baranda_Nueva/Box093
+        weight: 1
+      - path: Baranda_Nueva/Box094
+        weight: 1
+      - path: Baranda_Nueva/Box095
+        weight: 1
+      - path: Baranda_Nueva/Box096
+        weight: 1
+      - path: Baranda_Nueva/Box098
+        weight: 1
+      - path: Baranda_Nueva/Box099
+        weight: 1
+      - path: Baranda_Nueva/Box101
+        weight: 1
+      - path: Baranda_Nueva/Box102
+        weight: 1
+      - path: Baranda_Nueva/Box103
+        weight: 1
+      - path: Baranda_Nueva/Box104
+        weight: 1
+      - path: Baranda_Nueva/Box105
+        weight: 1
+      - path: Baranda_Vieja
+        weight: 1
+      - path: Baranda_Vieja/Box100
+        weight: 1
+      - path: Baranda_Vieja/Box109
+        weight: 1
+      - path: Baranda_Vieja/Box110
+        weight: 1
+      - path: Baranda_Vieja/Box111
+        weight: 1
+      - path: Baranda_Vieja/Box112
+        weight: 1
+      - path: Baranda_Vieja/Box113
+        weight: 1
+      - path: Baranda_Vieja/Box114
+        weight: 1
+      - path: Baranda_Vieja/Box115
+        weight: 1
+      - path: Baranda_Vieja/Box116
+        weight: 1
+      - path: Baranda_Vieja/Box117
+        weight: 1
+      - path: Baranda_Vieja/Box118
+        weight: 1
+      - path: Baranda_Vieja/Box119
+        weight: 1
+      - path: Baranda_Vieja/Box120
+        weight: 1
+      - path: Baranda_Vieja/Box121
+        weight: 1
+      - path: Baranda_Vieja/Box122
+        weight: 1
+      - path: Baranda_Vieja/Box123
+        weight: 1
+      - path: Baranda_Vieja/Box124
+        weight: 1
+      - path: Baranda_Vieja/Box125
+        weight: 1
+      - path: Baranda_Vieja/Box126
+        weight: 1
+      - path: Baranda_Vieja/Box127
+        weight: 1
+      - path: Baranda_Vieja/Box128
+        weight: 1
+      - path: Baranda_Vieja/Box129
+        weight: 1
+      - path: Baranda_Vieja/Box130
+        weight: 1
+      - path: Baranda_Vieja/Box131
+        weight: 1
+      - path: Baranda_Vieja/Box132
+        weight: 1
+      - path: Cylinder001
+        weight: 1
+      - path: Cylinder013
+        weight: 1
+      - path: Cylinder020
+        weight: 1
+      - path: Line002
+        weight: 1
+      - path: Line003
+        weight: 1
+      - path: Line004
+        weight: 1
+      - path: Object022
+        weight: 1
+      - path: Object023
+        weight: 1
+      - path: Object026
+        weight: 1
+      - path: Object027
+        weight: 1
+      - path: Object028
+        weight: 1
+      - path: Object029
+        weight: 1
+      - path: Object030
+        weight: 1
+      - path: Object031
+        weight: 1
+      - path: Object032
+        weight: 1
+      - path: Object033
+        weight: 1
+      - path: Object034
+        weight: 1
+      - path: Object035
+        weight: 1
+      - path: Object036
+        weight: 1
+      - path: radier
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: paso10
+      takeName: Take 001
+      firstFrame: 850
+      lastFrame: 920
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Baranda_Nueva
+        weight: 1
+      - path: Baranda_Nueva/Box042
+        weight: 1
+      - path: Baranda_Nueva/Box076
+        weight: 1
+      - path: Baranda_Nueva/Box078
+        weight: 1
+      - path: Baranda_Nueva/Box081
+        weight: 1
+      - path: Baranda_Nueva/Box082
+        weight: 1
+      - path: Baranda_Nueva/Box085
+        weight: 1
+      - path: Baranda_Nueva/Box086
+        weight: 1
+      - path: Baranda_Nueva/Box087
+        weight: 1
+      - path: Baranda_Nueva/Box088
+        weight: 1
+      - path: Baranda_Nueva/Box089
+        weight: 1
+      - path: Baranda_Nueva/Box090
+        weight: 1
+      - path: Baranda_Nueva/Box091
+        weight: 1
+      - path: Baranda_Nueva/Box092
+        weight: 1
+      - path: Baranda_Nueva/Box093
+        weight: 1
+      - path: Baranda_Nueva/Box094
+        weight: 1
+      - path: Baranda_Nueva/Box095
+        weight: 1
+      - path: Baranda_Nueva/Box096
+        weight: 1
+      - path: Baranda_Nueva/Box098
+        weight: 1
+      - path: Baranda_Nueva/Box099
+        weight: 1
+      - path: Baranda_Nueva/Box101
+        weight: 1
+      - path: Baranda_Nueva/Box102
+        weight: 1
+      - path: Baranda_Nueva/Box103
+        weight: 1
+      - path: Baranda_Nueva/Box104
+        weight: 1
+      - path: Baranda_Nueva/Box105
+        weight: 1
+      - path: Baranda_Vieja
+        weight: 1
+      - path: Baranda_Vieja/Box100
+        weight: 1
+      - path: Baranda_Vieja/Box109
+        weight: 1
+      - path: Baranda_Vieja/Box110
+        weight: 1
+      - path: Baranda_Vieja/Box111
+        weight: 1
+      - path: Baranda_Vieja/Box112
+        weight: 1
+      - path: Baranda_Vieja/Box113
+        weight: 1
+      - path: Baranda_Vieja/Box114
+        weight: 1
+      - path: Baranda_Vieja/Box115
+        weight: 1
+      - path: Baranda_Vieja/Box116
+        weight: 1
+      - path: Baranda_Vieja/Box117
+        weight: 1
+      - path: Baranda_Vieja/Box118
+        weight: 1
+      - path: Baranda_Vieja/Box119
+        weight: 1
+      - path: Baranda_Vieja/Box120
+        weight: 1
+      - path: Baranda_Vieja/Box121
+        weight: 1
+      - path: Baranda_Vieja/Box122
+        weight: 1
+      - path: Baranda_Vieja/Box123
+        weight: 1
+      - path: Baranda_Vieja/Box124
+        weight: 1
+      - path: Baranda_Vieja/Box125
+        weight: 1
+      - path: Baranda_Vieja/Box126
+        weight: 1
+      - path: Baranda_Vieja/Box127
+        weight: 1
+      - path: Baranda_Vieja/Box128
+        weight: 1
+      - path: Baranda_Vieja/Box129
+        weight: 1
+      - path: Baranda_Vieja/Box130
+        weight: 1
+      - path: Baranda_Vieja/Box131
+        weight: 1
+      - path: Baranda_Vieja/Box132
+        weight: 1
+      - path: Cylinder001
+        weight: 1
+      - path: Cylinder013
+        weight: 1
+      - path: Cylinder020
+        weight: 1
+      - path: Line002
+        weight: 1
+      - path: Line003
+        weight: 1
+      - path: Line004
+        weight: 1
+      - path: Object022
+        weight: 1
+      - path: Object023
+        weight: 1
+      - path: Object026
+        weight: 1
+      - path: Object027
+        weight: 1
+      - path: Object028
+        weight: 1
+      - path: Object029
+        weight: 1
+      - path: Object030
+        weight: 1
+      - path: Object031
+        weight: 1
+      - path: Object032
+        weight: 1
+      - path: Object033
+        weight: 1
+      - path: Object034
+        weight: 1
+      - path: Object035
+        weight: 1
+      - path: Object036
+        weight: 1
+      - path: radier
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: paso11
+      takeName: Take 001
+      firstFrame: 940
+      lastFrame: 1000
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Baranda_Nueva
+        weight: 1
+      - path: Baranda_Nueva/Box042
+        weight: 1
+      - path: Baranda_Nueva/Box076
+        weight: 1
+      - path: Baranda_Nueva/Box078
+        weight: 1
+      - path: Baranda_Nueva/Box081
+        weight: 1
+      - path: Baranda_Nueva/Box082
+        weight: 1
+      - path: Baranda_Nueva/Box085
+        weight: 1
+      - path: Baranda_Nueva/Box086
+        weight: 1
+      - path: Baranda_Nueva/Box087
+        weight: 1
+      - path: Baranda_Nueva/Box088
+        weight: 1
+      - path: Baranda_Nueva/Box089
+        weight: 1
+      - path: Baranda_Nueva/Box090
+        weight: 1
+      - path: Baranda_Nueva/Box091
+        weight: 1
+      - path: Baranda_Nueva/Box092
+        weight: 1
+      - path: Baranda_Nueva/Box093
+        weight: 1
+      - path: Baranda_Nueva/Box094
+        weight: 1
+      - path: Baranda_Nueva/Box095
+        weight: 1
+      - path: Baranda_Nueva/Box096
+        weight: 1
+      - path: Baranda_Nueva/Box098
+        weight: 1
+      - path: Baranda_Nueva/Box099
+        weight: 1
+      - path: Baranda_Nueva/Box101
+        weight: 1
+      - path: Baranda_Nueva/Box102
+        weight: 1
+      - path: Baranda_Nueva/Box103
+        weight: 1
+      - path: Baranda_Nueva/Box104
+        weight: 1
+      - path: Baranda_Nueva/Box105
+        weight: 1
+      - path: Baranda_Vieja
+        weight: 1
+      - path: Baranda_Vieja/Box100
+        weight: 1
+      - path: Baranda_Vieja/Box109
+        weight: 1
+      - path: Baranda_Vieja/Box110
+        weight: 1
+      - path: Baranda_Vieja/Box111
+        weight: 1
+      - path: Baranda_Vieja/Box112
+        weight: 1
+      - path: Baranda_Vieja/Box113
+        weight: 1
+      - path: Baranda_Vieja/Box114
+        weight: 1
+      - path: Baranda_Vieja/Box115
+        weight: 1
+      - path: Baranda_Vieja/Box116
+        weight: 1
+      - path: Baranda_Vieja/Box117
+        weight: 1
+      - path: Baranda_Vieja/Box118
+        weight: 1
+      - path: Baranda_Vieja/Box119
+        weight: 1
+      - path: Baranda_Vieja/Box120
+        weight: 1
+      - path: Baranda_Vieja/Box121
+        weight: 1
+      - path: Baranda_Vieja/Box122
+        weight: 1
+      - path: Baranda_Vieja/Box123
+        weight: 1
+      - path: Baranda_Vieja/Box124
+        weight: 1
+      - path: Baranda_Vieja/Box125
+        weight: 1
+      - path: Baranda_Vieja/Box126
+        weight: 1
+      - path: Baranda_Vieja/Box127
+        weight: 1
+      - path: Baranda_Vieja/Box128
+        weight: 1
+      - path: Baranda_Vieja/Box129
+        weight: 1
+      - path: Baranda_Vieja/Box130
+        weight: 1
+      - path: Baranda_Vieja/Box131
+        weight: 1
+      - path: Baranda_Vieja/Box132
+        weight: 1
+      - path: Cylinder001
+        weight: 1
+      - path: Cylinder013
+        weight: 1
+      - path: Cylinder020
+        weight: 1
+      - path: Line002
+        weight: 1
+      - path: Line003
+        weight: 1
+      - path: Line004
+        weight: 1
+      - path: Object022
+        weight: 1
+      - path: Object023
+        weight: 1
+      - path: Object026
+        weight: 1
+      - path: Object027
+        weight: 1
+      - path: Object028
+        weight: 1
+      - path: Object029
+        weight: 1
+      - path: Object030
+        weight: 1
+      - path: Object031
+        weight: 1
+      - path: Object032
+        weight: 1
+      - path: Object033
+        weight: 1
+      - path: Object034
+        weight: 1
+      - path: Object035
+        weight: 1
+      - path: Object036
+        weight: 1
+      - path: radier
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: paso12
+      takeName: Take 001
+      firstFrame: 1010
+      lastFrame: 1080
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Baranda_Nueva
+        weight: 1
+      - path: Baranda_Nueva/Box042
+        weight: 1
+      - path: Baranda_Nueva/Box076
+        weight: 1
+      - path: Baranda_Nueva/Box078
+        weight: 1
+      - path: Baranda_Nueva/Box081
+        weight: 1
+      - path: Baranda_Nueva/Box082
+        weight: 1
+      - path: Baranda_Nueva/Box085
+        weight: 1
+      - path: Baranda_Nueva/Box086
+        weight: 1
+      - path: Baranda_Nueva/Box087
+        weight: 1
+      - path: Baranda_Nueva/Box088
+        weight: 1
+      - path: Baranda_Nueva/Box089
+        weight: 1
+      - path: Baranda_Nueva/Box090
+        weight: 1
+      - path: Baranda_Nueva/Box091
+        weight: 1
+      - path: Baranda_Nueva/Box092
+        weight: 1
+      - path: Baranda_Nueva/Box093
+        weight: 1
+      - path: Baranda_Nueva/Box094
+        weight: 1
+      - path: Baranda_Nueva/Box095
+        weight: 1
+      - path: Baranda_Nueva/Box096
+        weight: 1
+      - path: Baranda_Nueva/Box098
+        weight: 1
+      - path: Baranda_Nueva/Box099
+        weight: 1
+      - path: Baranda_Nueva/Box101
+        weight: 1
+      - path: Baranda_Nueva/Box102
+        weight: 1
+      - path: Baranda_Nueva/Box103
+        weight: 1
+      - path: Baranda_Nueva/Box104
+        weight: 1
+      - path: Baranda_Nueva/Box105
+        weight: 1
+      - path: Baranda_Vieja
+        weight: 1
+      - path: Baranda_Vieja/Box100
+        weight: 1
+      - path: Baranda_Vieja/Box109
+        weight: 1
+      - path: Baranda_Vieja/Box110
+        weight: 1
+      - path: Baranda_Vieja/Box111
+        weight: 1
+      - path: Baranda_Vieja/Box112
+        weight: 1
+      - path: Baranda_Vieja/Box113
+        weight: 1
+      - path: Baranda_Vieja/Box114
+        weight: 1
+      - path: Baranda_Vieja/Box115
+        weight: 1
+      - path: Baranda_Vieja/Box116
+        weight: 1
+      - path: Baranda_Vieja/Box117
+        weight: 1
+      - path: Baranda_Vieja/Box118
+        weight: 1
+      - path: Baranda_Vieja/Box119
+        weight: 1
+      - path: Baranda_Vieja/Box120
+        weight: 1
+      - path: Baranda_Vieja/Box121
+        weight: 1
+      - path: Baranda_Vieja/Box122
+        weight: 1
+      - path: Baranda_Vieja/Box123
+        weight: 1
+      - path: Baranda_Vieja/Box124
+        weight: 1
+      - path: Baranda_Vieja/Box125
+        weight: 1
+      - path: Baranda_Vieja/Box126
+        weight: 1
+      - path: Baranda_Vieja/Box127
+        weight: 1
+      - path: Baranda_Vieja/Box128
+        weight: 1
+      - path: Baranda_Vieja/Box129
+        weight: 1
+      - path: Baranda_Vieja/Box130
+        weight: 1
+      - path: Baranda_Vieja/Box131
+        weight: 1
+      - path: Baranda_Vieja/Box132
+        weight: 1
+      - path: Cylinder001
+        weight: 1
+      - path: Cylinder013
+        weight: 1
+      - path: Cylinder020
+        weight: 1
+      - path: Line002
+        weight: 1
+      - path: Line003
+        weight: 1
+      - path: Line004
+        weight: 1
+      - path: Object022
+        weight: 1
+      - path: Object023
+        weight: 1
+      - path: Object026
+        weight: 1
+      - path: Object027
+        weight: 1
+      - path: Object028
+        weight: 1
+      - path: Object029
+        weight: 1
+      - path: Object030
+        weight: 1
+      - path: Object031
+        weight: 1
+      - path: Object032
+        weight: 1
+      - path: Object033
+        weight: 1
+      - path: Object034
+        weight: 1
+      - path: Object035
+        weight: 1
+      - path: Object036
+        weight: 1
+      - path: radier
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: paso13
+      takeName: Take 001
+      firstFrame: 1090
+      lastFrame: 1150
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Baranda_Nueva
+        weight: 1
+      - path: Baranda_Nueva/Box042
+        weight: 1
+      - path: Baranda_Nueva/Box076
+        weight: 1
+      - path: Baranda_Nueva/Box078
+        weight: 1
+      - path: Baranda_Nueva/Box081
+        weight: 1
+      - path: Baranda_Nueva/Box082
+        weight: 1
+      - path: Baranda_Nueva/Box085
+        weight: 1
+      - path: Baranda_Nueva/Box086
+        weight: 1
+      - path: Baranda_Nueva/Box087
+        weight: 1
+      - path: Baranda_Nueva/Box088
+        weight: 1
+      - path: Baranda_Nueva/Box089
+        weight: 1
+      - path: Baranda_Nueva/Box090
+        weight: 1
+      - path: Baranda_Nueva/Box091
+        weight: 1
+      - path: Baranda_Nueva/Box092
+        weight: 1
+      - path: Baranda_Nueva/Box093
+        weight: 1
+      - path: Baranda_Nueva/Box094
+        weight: 1
+      - path: Baranda_Nueva/Box095
+        weight: 1
+      - path: Baranda_Nueva/Box096
+        weight: 1
+      - path: Baranda_Nueva/Box098
+        weight: 1
+      - path: Baranda_Nueva/Box099
+        weight: 1
+      - path: Baranda_Nueva/Box101
+        weight: 1
+      - path: Baranda_Nueva/Box102
+        weight: 1
+      - path: Baranda_Nueva/Box103
+        weight: 1
+      - path: Baranda_Nueva/Box104
+        weight: 1
+      - path: Baranda_Nueva/Box105
+        weight: 1
+      - path: Baranda_Vieja
+        weight: 1
+      - path: Baranda_Vieja/Box100
+        weight: 1
+      - path: Baranda_Vieja/Box109
+        weight: 1
+      - path: Baranda_Vieja/Box110
+        weight: 1
+      - path: Baranda_Vieja/Box111
+        weight: 1
+      - path: Baranda_Vieja/Box112
+        weight: 1
+      - path: Baranda_Vieja/Box113
+        weight: 1
+      - path: Baranda_Vieja/Box114
+        weight: 1
+      - path: Baranda_Vieja/Box115
+        weight: 1
+      - path: Baranda_Vieja/Box116
+        weight: 1
+      - path: Baranda_Vieja/Box117
+        weight: 1
+      - path: Baranda_Vieja/Box118
+        weight: 1
+      - path: Baranda_Vieja/Box119
+        weight: 1
+      - path: Baranda_Vieja/Box120
+        weight: 1
+      - path: Baranda_Vieja/Box121
+        weight: 1
+      - path: Baranda_Vieja/Box122
+        weight: 1
+      - path: Baranda_Vieja/Box123
+        weight: 1
+      - path: Baranda_Vieja/Box124
+        weight: 1
+      - path: Baranda_Vieja/Box125
+        weight: 1
+      - path: Baranda_Vieja/Box126
+        weight: 1
+      - path: Baranda_Vieja/Box127
+        weight: 1
+      - path: Baranda_Vieja/Box128
+        weight: 1
+      - path: Baranda_Vieja/Box129
+        weight: 1
+      - path: Baranda_Vieja/Box130
+        weight: 1
+      - path: Baranda_Vieja/Box131
+        weight: 1
+      - path: Baranda_Vieja/Box132
+        weight: 1
+      - path: Cylinder001
+        weight: 1
+      - path: Cylinder013
+        weight: 1
+      - path: Cylinder020
+        weight: 1
+      - path: Line002
+        weight: 1
+      - path: Line003
+        weight: 1
+      - path: Line004
+        weight: 1
+      - path: Object022
+        weight: 1
+      - path: Object023
+        weight: 1
+      - path: Object026
+        weight: 1
+      - path: Object027
+        weight: 1
+      - path: Object028
+        weight: 1
+      - path: Object029
+        weight: 1
+      - path: Object030
+        weight: 1
+      - path: Object031
+        weight: 1
+      - path: Object032
+        weight: 1
+      - path: Object033
+        weight: 1
+      - path: Object034
+        weight: 1
+      - path: Object035
+        weight: 1
+      - path: Object036
+        weight: 1
+      - path: radier
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: paso14
+      takeName: Take 001
+      firstFrame: 1160
+      lastFrame: 1240
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Baranda_Nueva
+        weight: 1
+      - path: Baranda_Nueva/Box042
+        weight: 1
+      - path: Baranda_Nueva/Box076
+        weight: 1
+      - path: Baranda_Nueva/Box078
+        weight: 1
+      - path: Baranda_Nueva/Box081
+        weight: 1
+      - path: Baranda_Nueva/Box082
+        weight: 1
+      - path: Baranda_Nueva/Box085
+        weight: 1
+      - path: Baranda_Nueva/Box086
+        weight: 1
+      - path: Baranda_Nueva/Box087
+        weight: 1
+      - path: Baranda_Nueva/Box088
+        weight: 1
+      - path: Baranda_Nueva/Box089
+        weight: 1
+      - path: Baranda_Nueva/Box090
+        weight: 1
+      - path: Baranda_Nueva/Box091
+        weight: 1
+      - path: Baranda_Nueva/Box092
+        weight: 1
+      - path: Baranda_Nueva/Box093
+        weight: 1
+      - path: Baranda_Nueva/Box094
+        weight: 1
+      - path: Baranda_Nueva/Box095
+        weight: 1
+      - path: Baranda_Nueva/Box096
+        weight: 1
+      - path: Baranda_Nueva/Box098
+        weight: 1
+      - path: Baranda_Nueva/Box099
+        weight: 1
+      - path: Baranda_Nueva/Box101
+        weight: 1
+      - path: Baranda_Nueva/Box102
+        weight: 1
+      - path: Baranda_Nueva/Box103
+        weight: 1
+      - path: Baranda_Nueva/Box104
+        weight: 1
+      - path: Baranda_Nueva/Box105
+        weight: 1
+      - path: Baranda_Vieja
+        weight: 1
+      - path: Baranda_Vieja/Box100
+        weight: 1
+      - path: Baranda_Vieja/Box109
+        weight: 1
+      - path: Baranda_Vieja/Box110
+        weight: 1
+      - path: Baranda_Vieja/Box111
+        weight: 1
+      - path: Baranda_Vieja/Box112
+        weight: 1
+      - path: Baranda_Vieja/Box113
+        weight: 1
+      - path: Baranda_Vieja/Box114
+        weight: 1
+      - path: Baranda_Vieja/Box115
+        weight: 1
+      - path: Baranda_Vieja/Box116
+        weight: 1
+      - path: Baranda_Vieja/Box117
+        weight: 1
+      - path: Baranda_Vieja/Box118
+        weight: 1
+      - path: Baranda_Vieja/Box119
+        weight: 1
+      - path: Baranda_Vieja/Box120
+        weight: 1
+      - path: Baranda_Vieja/Box121
+        weight: 1
+      - path: Baranda_Vieja/Box122
+        weight: 1
+      - path: Baranda_Vieja/Box123
+        weight: 1
+      - path: Baranda_Vieja/Box124
+        weight: 1
+      - path: Baranda_Vieja/Box125
+        weight: 1
+      - path: Baranda_Vieja/Box126
+        weight: 1
+      - path: Baranda_Vieja/Box127
+        weight: 1
+      - path: Baranda_Vieja/Box128
+        weight: 1
+      - path: Baranda_Vieja/Box129
+        weight: 1
+      - path: Baranda_Vieja/Box130
+        weight: 1
+      - path: Baranda_Vieja/Box131
+        weight: 1
+      - path: Baranda_Vieja/Box132
+        weight: 1
+      - path: Cylinder001
+        weight: 1
+      - path: Cylinder013
+        weight: 1
+      - path: Cylinder020
+        weight: 1
+      - path: Line002
+        weight: 1
+      - path: Line003
+        weight: 1
+      - path: Line004
+        weight: 1
+      - path: Object022
+        weight: 1
+      - path: Object023
+        weight: 1
+      - path: Object026
+        weight: 1
+      - path: Object027
+        weight: 1
+      - path: Object028
+        weight: 1
+      - path: Object029
+        weight: 1
+      - path: Object030
+        weight: 1
+      - path: Object031
+        weight: 1
+      - path: Object032
+        weight: 1
+      - path: Object033
+        weight: 1
+      - path: Object034
+        weight: 1
+      - path: Object035
+        weight: 1
+      - path: Object036
+        weight: 1
+      - path: radier
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: paso15
+      takeName: Take 001
+      firstFrame: 1250
+      lastFrame: 1320.00012
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Baranda_Nueva
+        weight: 1
+      - path: Baranda_Nueva/Box042
+        weight: 1
+      - path: Baranda_Nueva/Box076
+        weight: 1
+      - path: Baranda_Nueva/Box078
+        weight: 1
+      - path: Baranda_Nueva/Box081
+        weight: 1
+      - path: Baranda_Nueva/Box082
+        weight: 1
+      - path: Baranda_Nueva/Box085
+        weight: 1
+      - path: Baranda_Nueva/Box086
+        weight: 1
+      - path: Baranda_Nueva/Box087
+        weight: 1
+      - path: Baranda_Nueva/Box088
+        weight: 1
+      - path: Baranda_Nueva/Box089
+        weight: 1
+      - path: Baranda_Nueva/Box090
+        weight: 1
+      - path: Baranda_Nueva/Box091
+        weight: 1
+      - path: Baranda_Nueva/Box092
+        weight: 1
+      - path: Baranda_Nueva/Box093
+        weight: 1
+      - path: Baranda_Nueva/Box094
+        weight: 1
+      - path: Baranda_Nueva/Box095
+        weight: 1
+      - path: Baranda_Nueva/Box096
+        weight: 1
+      - path: Baranda_Nueva/Box098
+        weight: 1
+      - path: Baranda_Nueva/Box099
+        weight: 1
+      - path: Baranda_Nueva/Box101
+        weight: 1
+      - path: Baranda_Nueva/Box102
+        weight: 1
+      - path: Baranda_Nueva/Box103
+        weight: 1
+      - path: Baranda_Nueva/Box104
+        weight: 1
+      - path: Baranda_Nueva/Box105
+        weight: 1
+      - path: Baranda_Vieja
+        weight: 1
+      - path: Baranda_Vieja/Box100
+        weight: 1
+      - path: Baranda_Vieja/Box109
+        weight: 1
+      - path: Baranda_Vieja/Box110
+        weight: 1
+      - path: Baranda_Vieja/Box111
+        weight: 1
+      - path: Baranda_Vieja/Box112
+        weight: 1
+      - path: Baranda_Vieja/Box113
+        weight: 1
+      - path: Baranda_Vieja/Box114
+        weight: 1
+      - path: Baranda_Vieja/Box115
+        weight: 1
+      - path: Baranda_Vieja/Box116
+        weight: 1
+      - path: Baranda_Vieja/Box117
+        weight: 1
+      - path: Baranda_Vieja/Box118
+        weight: 1
+      - path: Baranda_Vieja/Box119
+        weight: 1
+      - path: Baranda_Vieja/Box120
+        weight: 1
+      - path: Baranda_Vieja/Box121
+        weight: 1
+      - path: Baranda_Vieja/Box122
+        weight: 1
+      - path: Baranda_Vieja/Box123
+        weight: 1
+      - path: Baranda_Vieja/Box124
+        weight: 1
+      - path: Baranda_Vieja/Box125
+        weight: 1
+      - path: Baranda_Vieja/Box126
+        weight: 1
+      - path: Baranda_Vieja/Box127
+        weight: 1
+      - path: Baranda_Vieja/Box128
+        weight: 1
+      - path: Baranda_Vieja/Box129
+        weight: 1
+      - path: Baranda_Vieja/Box130
+        weight: 1
+      - path: Baranda_Vieja/Box131
+        weight: 1
+      - path: Baranda_Vieja/Box132
+        weight: 1
+      - path: Cylinder001
+        weight: 1
+      - path: Cylinder013
+        weight: 1
+      - path: Cylinder020
+        weight: 1
+      - path: Line002
+        weight: 1
+      - path: Line003
+        weight: 1
+      - path: Line004
+        weight: 1
+      - path: Object022
+        weight: 1
+      - path: Object023
+        weight: 1
+      - path: Object026
+        weight: 1
+      - path: Object027
+        weight: 1
+      - path: Object028
+        weight: 1
+      - path: Object029
+        weight: 1
+      - path: Object030
+        weight: 1
+      - path: Object031
+        weight: 1
+      - path: Object032
+        weight: 1
+      - path: Object033
+        weight: 1
+      - path: Object034
+        weight: 1
+      - path: Object035
+        weight: 1
+      - path: Object036
+        weight: 1
+      - path: radier
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .100000001
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 0
+  userData: 
